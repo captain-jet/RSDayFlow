@@ -31,7 +31,7 @@
 #define RSDayFlow_RSDayFlow_h
 
 #import <UIKit/UIKit.h>
-#import <Fondation/Fondation.h>
+#import <Foundation/Foundation.h>
 
 #import <RSDayFlow/RSDFDatePickerView.h>
 #import <RSDayFlow/RSDFDatePickerView+Protected.h>
